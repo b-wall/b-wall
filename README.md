@@ -6,8 +6,6 @@ I started with Harvard University's CS50X "Introduction to Computer Science", an
 
 I enjoy the problem solving and discovery that goes with software development, as well as creating something from nothing. I can't wait to learn more!
 
-- **🔭Discovered so far: Django**
-
 - **🌱 Currently Learning:** The MERN Stack
 
 If you are somebody with a like-minded mindset, please don't hesitate to contact me.
