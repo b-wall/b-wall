@@ -4,7 +4,7 @@ Based in Asia for the past 6 years teaching English, I discovered programming du
 
 I started with Harvard University's CS50X "Introduction to Computer Science", and moved on to the Django web-framework to make a bunch of fully-fleshed out web apps. 
 
-I'm currently working as a developer in the Shopify e-commerce space, with tools such as Remix, Rust and Liquid.
+I'm currently employed as a developer in the Shopify e-commerce space, working with tools such as Remix, Rust and Liquid.
 
 - **🌱 Currently Learning:** Rust
 
