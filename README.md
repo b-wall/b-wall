@@ -6,7 +6,7 @@ I started with Harvard University's CS50X "Introduction to Computer Science", an
 
 I'm currently employed as a developer in the Shopify e-commerce space, working with tools such as Remix, Rust and Liquid.
 
-- **🌱 Currently Learning:** Rust
+- **🌱 Currently Learning:** Rust, Remix, VIM!
 
 If you are somebody with a like-minded mindset, please don't hesitate to contact me.
 
